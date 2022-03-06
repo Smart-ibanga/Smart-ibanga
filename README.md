@@ -6,6 +6,6 @@
 I'm Smart-ibanga who is passionate about writing code, solving problems, and building software.
 
 - 🔭 I’m interested in Web and Mobile Apps development
-- 📚 I’m currently learning  frontend web development using Html, Css , javaScript and React.
+- 📚 I’m currently learning  frontend web development using Html, Css , JavaScript and React.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ibanga-smart) [Gmail](mailto:ibangasmart@gmail.com)
